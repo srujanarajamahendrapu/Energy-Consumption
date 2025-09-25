@@ -4,7 +4,7 @@
 
 This Power BI dashboard provides a comprehensive analysis of energy consumption patterns. It enables users to monitor energy usage trends, compare performance across time periods, and identify areas for energy optimization.
 
-# 🎯** Objectives**
+# 🎯 **Objectives**
 
 * Track daily, monthly, and yearly energy consumption.
 
